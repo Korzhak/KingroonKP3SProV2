@@ -14,4 +14,4 @@ I tried it with Cura 5.6.0 and 5.3.0.
 6. Close all opened Cura windows and open it again. 
 7. Now you can work find and work with it. 
 
-![cura screen](img\image.png)
+![cura screen](img/image.png)
